@@ -1,5 +1,5 @@
 # Denis Svetleishii
-Front-end developer
+Front-end developer  
 https://iambigbobby.github.io/Denis-Svetleishii-CV/  
 
 ## Skills  
