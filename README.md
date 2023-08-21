@@ -12,3 +12,5 @@ https://iambigbobby.github.io/Denis-Svetleishii-CV/
 * Figma  
 * NodeJS (basic)  
 
+##My projects
+https://resonant-basbousa-320484.netlify.app/
