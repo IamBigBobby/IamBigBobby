@@ -13,9 +13,11 @@ https://iambigbobby.github.io/Denis-Svetleishii-CV/
 * NodeJS (basic)
 
 ## My projects  
+### RSSchool stage0 2022 summer  
 https://resonant-basbousa-320484.netlify.app/  
 https://iambigbobby.github.io/RSSchool-stage0-2022-summer/travel/  
-https://amazing-kitsune-cea7f5.netlify.app/  
+https://amazing-kitsune-cea7f5.netlify.app/ 
+### RSSchool stage1 2023 spring
 https://iambigbobby.github.io/RSSchool-stage1-2023-spring/shelter/  
 https://iambigbobby.github.io/virtual-keyboard/  
 https://iambigbobby.github.io/RSSchool-stage1-2023-spring/minesweeper/  
