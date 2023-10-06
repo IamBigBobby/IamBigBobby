@@ -11,6 +11,7 @@ https://iambigbobby.github.io/Denis-Svetleishii-CV/
 * GitHub  
 * Figma  
 * NodeJS (basic)
+* BEM
 
 ## My projects  
 ### RSSchool stage0 2022 summer  
