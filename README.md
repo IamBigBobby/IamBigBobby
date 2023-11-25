@@ -23,7 +23,7 @@ https://iambigbobby.github.io/RSSchool-stage1-2023-spring/shelter/
 https://iambigbobby.github.io/virtual-keyboard/  
 https://iambigbobby.github.io/RSSchool-stage1-2023-spring/minesweeper/  
 https://iambigbobby.github.io/cssBayan/cssBayan/index.html  
-### RSSchool stage1 2023 spring  
+### RSSchool stage1 2023 autumn  
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/coffee-house/  
 
 ### Self projects
