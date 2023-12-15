@@ -29,6 +29,10 @@ https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/coffee-house/
 
 ### Self projects
 https://iambigbobby.github.io/library/  
+https://github.com/IamBigBobby/core-js-strings  
+https://github.com/IamBigBobby/core-js-numbers  
+https://github.com/IamBigBobby/basic-js  
+
 
 ### Test tasks for interviews  
 https://iambigbobby.github.io/test-task-for-the-company-Guild-PRO-/  
