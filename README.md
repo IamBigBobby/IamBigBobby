@@ -28,7 +28,10 @@ https://iambigbobby.github.io/cssBayan/cssBayan/index.html
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/coffee-house/  
 
 ### Self projects
-https://iambigbobby.github.io/library/
+https://iambigbobby.github.io/library/  
+
+### Test tasks for interviews  
+https://iambigbobby.github.io/test-task-for-the-company-Guild-PRO-/  
 
 ## Code examples
 https://github.com/IamBigBobby/CodeWars  
