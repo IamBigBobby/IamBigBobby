@@ -39,5 +39,7 @@ https://github.com/IamBigBobby/CodeWars
 https://github.com/IamBigBobby/core-js-strings  
 https://github.com/IamBigBobby/core-js-numbers  
 https://github.com/IamBigBobby/basic-js  
+https://github.com/IamBigBobby/core-js-conditions-n-loops-tasks  
+https://github.com/IamBigBobby/core-js-arrays  
 
 
