@@ -26,6 +26,7 @@ https://iambigbobby.github.io/RSSchool-stage1-2023-spring/minesweeper/
 https://iambigbobby.github.io/cssBayan/cssBayan/index.html  
 ### RSSchool stage1 2023 autumn  
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/coffee-house/  
+https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/hangman/  
 
 ### Self projects
 https://iambigbobby.github.io/library/  
