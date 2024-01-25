@@ -1,6 +1,5 @@
 # Denis Svetleishii
 Software developer  
-https://iambigbobby.github.io/Denis-Svetleishii-CV/  
 
 ## Skills  
 * JavaScript  
