@@ -27,6 +27,9 @@ https://iambigbobby.github.io/cssBayan/cssBayan/index.html
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/coffee-house/  
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/hangman/  
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/nonograms/  
+### RSSchool stage2 2024 winter  
+https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/news-api/  
+ 
 
 ### Self projects
 https://iambigbobby.github.io/library/  
