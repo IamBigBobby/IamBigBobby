@@ -40,6 +40,7 @@ https://github.com/IamBigBobby/core-js-numbers
 https://github.com/IamBigBobby/basic-js  
 https://github.com/IamBigBobby/core-js-conditions-n-loops-tasks  
 https://github.com/IamBigBobby/core-js-arrays  
+https://github.com/IamBigBobby/core-js-objects  
 ### NodeJS  
 https://github.com/IamBigBobby/HTML-Builder  
 https://github.com/IamBigBobby/CRUD-API  
