@@ -34,7 +34,7 @@ https://iambigbobby.github.io/test-task-for-the-company-Guild-PRO-/
 
 ## Code examples  
 ### JavaScript
-https://github.com/IamBigBobby/CodeWars  
+https://github.com/IamBigBobby/CodeWarsJS  
 https://github.com/IamBigBobby/core-js-strings  
 https://github.com/IamBigBobby/core-js-numbers  
 https://github.com/IamBigBobby/basic-js  
@@ -42,5 +42,10 @@ https://github.com/IamBigBobby/core-js-conditions-n-loops-tasks
 https://github.com/IamBigBobby/core-js-arrays  
 ### NodeJS  
 https://github.com/IamBigBobby/HTML-Builder  
+https://github.com/IamBigBobby/CRUD-API  
+https://github.com/IamBigBobby/File-manager-nodejs  
+https://github.com/IamBigBobby/node-nodejs-basics  
+### Jest
+https://github.com/IamBigBobby/basic-testing  
 
 
