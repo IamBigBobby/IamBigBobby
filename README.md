@@ -2,7 +2,7 @@
 Software developer  
 
 ## About me
-I used to work as an engineer in a construction laboratory. The work consisted in laboratory control of building materials. I have technical experience that always helps me. And now for 9 years I'm working as a swimming coach for preschoolers and children with special needs. This job gave me great inspiration (thanks to the children) to learn new things. I think that the combination of my past experience helps me to make a good products and be a good employee.
+I used to work as an engineer in a construction laboratory. The work consisted in laboratory control of building materials. I have technical experience that always helps me. And now I'm taking RS school courses. This experiance gave me great inspiration to learn new things. I think that the combination of my past experience helps me to make a good products and be a good employee.
 
 ## Education  
 * STU Tunnels and bridges constructions
