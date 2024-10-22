@@ -26,7 +26,7 @@ https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/rss-puzzle/
 https://iambigbobby.github.io/library/  
 ### React
 ### Angular
-https://rolling-scopes-school.github.io/iambigbobby-ANGULAR2024Q3/
+https://rolling-scopes-school.github.io/iambigbobby-ANGULAR2024Q3/  
 https://iambigbobby.github.io/Train-A/
 
 ### Test tasks for interviews  
