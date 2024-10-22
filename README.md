@@ -21,7 +21,9 @@ https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/hangman/
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/nonograms/  
 #### RSSchool stage2 2024 winter  
 https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/news-api/  
-https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/rss-puzzle/   
+https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/rss-puzzle/  
+https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/fun-chat/  
+https://rolling-scopes-school.github.io/iambigbobby-JSFE2023Q4/async-race/  
 #### Self projects
 https://iambigbobby.github.io/library/  
 ### React
