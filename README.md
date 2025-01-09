@@ -1,6 +1,5 @@
 # Denis Svetleishii
 Software developer  
-https://www.codewars.com/users/_IamBigBobby_/badges/large
 ## About me
 I used to work as an engineer in a construction laboratory. The work consisted in laboratory control of building materials. I have technical experience that always helps me. And now I'm taking RS school courses. This experiance gave me great inspiration to learn new things. I think that the combination of my past experience helps me to make a good products and be a good employee.
 
